@@ -3,4 +3,6 @@
 
 Deployed application: https://harben31.github.io/bbh_homework_wk_1/
 
-
+![screen shots] (./assets/images/screenshot_1.png)
+![screen shots] (./assets/images/screenshot_2.png)
+![screen shots] (./assets/images/screenshot_3.png)
